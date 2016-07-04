@@ -13,6 +13,7 @@
 * [Language Agnostic](#language-agnostic)
 * [Node.js](#Nodejs)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Vim](#vim)
@@ -78,9 +79,11 @@
 ### Javascript
 
 * [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
-* [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber/)
+* [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
 * [Podcast] - [JavaScript Air](https://javascriptair.com)
+* [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)
+* [Podcast] - [Front End Happy Hour](http://frontendhappyhour.com)
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://www.screencasts.org/topics/javascript)
 * [Screencast] - [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)
 * [Screencast] - [ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)
@@ -89,12 +92,14 @@
 ### Language Agnostic
 
 * [Podcast] - [.NET Rocks!](https://www.dotnetrocks.com)
+* [Podcast] - [CodeNewbie](http://www.codenewbie.org/podcast)
 * [Podcast] - [Developer Tea](https://developertea.com)
 * [Podcast] - [Frontside the Podcast](https://frontsidethepodcast.simplecast.fm)
 * [Podcast] - [Full Stack Radio](http://www.fullstackradio.com)
 * [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)
 * [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com)
 * [Podcast] - [Shop Talk Show](http://shoptalkshow.com)
+* [Podcast] - [Software Engineering Daily](http://softwareengineeringdaily.com)
 * [Podcast] - [Software Engineering Radio](http://www.se-radio.net)
 * [Podcast] - [The Changelog Podcast](https://changelog.com/podcast/)
 * [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
@@ -113,6 +118,11 @@
 * [Podcast] - [PHP Town Hall](http://phptownhall.com)
 * [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com)
 * [Podcast] - [Voices of the ElePHPant](https://voicesoftheelephpant.com)
+
+
+### PostgreSQL
+
+* [Screencast] - [PG Casts](https://www.pgcasts.com)
 
 
 ### Python

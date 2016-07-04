@@ -330,11 +330,14 @@
 #### Database
 
 * [Big Data Now: Current Perspectives from O'Reilly Radar](http://shop.oreilly.com/product/0636920022640.do)
+* [Database Explorations](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) (PDF)
 * [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) (PDF)
+* [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) (PDF)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
 * [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+* [What is Database Design, Anyway?](http://www.oreilly.com/data/free/what-is-database-design-anyway.csp)
 
 
 #### Datamining
@@ -344,7 +347,7 @@
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](http://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
-* [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
+* [Mining of Massive Datasets](http://www.mmds.org)
 * [School of Data Handbook](http://schoolofdata.org/handbook/)
 * [Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
 
@@ -387,10 +390,10 @@
 
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Robert A. Beezer
 * [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-* [An Introduction to Statistics](http://work.thaslwanter.at/Stats/html/) - Thomas Haslwanter (using Python)
 * [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
+* [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu)
 * [CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 * [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
@@ -433,7 +436,7 @@
 
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)
 * [A Mathematical Theory of Communication](http://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=6773024&tp=) - Claude E.Shannon
-* [Ansible Up & Running](https://www.ansible.com/blog/free-ansible-book)
+* [Ansible Up & Running (first three chapters)](https://www.ansible.com/blog/free-ansible-book) *(account required)*
 * [Asterisk™: The Definitive Guide](http://asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html)
 * [Barcode Overview](http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/~playbook/)
@@ -528,7 +531,6 @@
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
 * [The Future of the Internet](http://futureoftheinternet.org)
 * [The Open Source Way](http://www.theopensourceway.org/book/)
-* [The Performance of Open Source Applications](http://aosabook.org/en/)
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
 
@@ -553,7 +555,6 @@
 * [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance & Kevin Dowd (PDF, ePUB)
 * [High Performance Computing Training](https://computing.llnl.gov/?set=training&page=index) (LLNL materials)
 * [High-Performance Scientific Computing](http://bit.ly/hpc12) (class lectures and slides)
-* [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
 * [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html) - Victor Eijkhout
 * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) - Blaise Barney
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
@@ -602,7 +603,7 @@
 #### Security
 
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
-* [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)
+* [CryptoParty Handbook](https://unglue.it/work/141611/)
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
@@ -652,7 +653,6 @@
 * [Introduction to Computing](http://www.computingbook.org)
 * [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (PDF)
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
-* [Network Science](http://barabasilab.neu.edu/networksciencebook/index.html)
 * [Practical Foundations for Programming Languages, Preview](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Robert Harper (PDF)
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html) - Shriram Krishnamurthi
@@ -727,7 +727,7 @@
 ### Assembly Language
 
 * [An introduction to reverse engineering for beginners](https://github.com/dennis714/RE-for-beginners)
-* [Assembly Language Succinctly](https://www.syncfusion.com/Account/Logon?ReturnUrl=/resources/techportal/ebooks/assemblylanguage) (PDF)
+* [Assembly Language Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage) (PDF)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - P. A. Carter
 * [Professional Assembly Language](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
 * [Programming from the Ground Up](http://mirror.unicorncloud.org/savannah-nongnu//pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
@@ -826,9 +826,11 @@
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Programming - Wikibook](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com) (intro to programming)
+* [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
 * [Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov
+* [Introduction to Rx](http://www.introtorx.com)
 * [Threading in C#](http://www.albahari.com/threading/)
 
 
@@ -842,7 +844,7 @@
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
-* [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+* [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) (PDF)
 * [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf) (PDF)
@@ -853,6 +855,7 @@
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Boost C++ libraries](http://theboostcpplibraries.com)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
+* [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) - Bruce Eckel [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) (ZIP)
 
 
@@ -1114,6 +1117,7 @@
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
+* [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com)
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Haskell no panic](http://lisperati.com/haskell/)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
@@ -1158,6 +1162,7 @@
 * [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
+* [MaintainableCSS](http://maintainablecss.com)
 * [Pro HTML5 Programming]( http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
 * [Scalable and Modular Architecture for CSS](https://smacss.com) - Jonathan Snook
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
@@ -1219,7 +1224,7 @@
 * [Core Servlets and JavaServer Pages](http://pdf.coreservlets.com) - Marty Hall and Larry Brown
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/html/page9.html)
 * [Data Structures in Java for the Principled Programmer](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) (PDF)
-* [Google's Java Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Introduction to Computer science using Java](http://chortle.ccsu.edu/java5/index.html)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick and Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes/) - David J. Eck
@@ -1499,7 +1504,6 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA)
 * [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
 * [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) *(RedGate, By Paul Glavich and Chris Farrell)*
-* [Practical Performance Profiling: Improving the efficiency of .NET code](http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/practical-performance-profiling) *(RedGate, By Jean-Philippe Gouigoux)*
 * [Under the Hood of .NET Memory Management](http://download.red-gate.com/ebooks/DotNet/Under_the_Hood_of_.NET_Management.pdf) (PDF) *(RedGate, By Chris Farrell and Nick Harrison)*
 * [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) (VS 2003-2005 only)
 
@@ -1625,6 +1629,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
     * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
   * Laravel 5
     * [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
+    * [Laravel Best Practices](http://www.laravelbestpractices.com)
     * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
@@ -1656,17 +1661,21 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 ### PowerShell
 
-* [Creating HTML Reports in PowerShell](https://www.penflip.com/powershellorg/creating-html-reports-in-powershell) (PDF,ePub,HTML)
-* [Introduction to PowerShell for Unix People](https://www.penflip.com/powershellorg/a-unix-persons-guide-to-powershell) (PDF, ePub, HTML)
+* [Creating HTML Reports in PowerShell](https://www.gitbook.com/book/devopscollective/creating-html-reports-in-powershell/details) (PDF,ePub,HTML)
+* [DevOps: The Ops Perspective](https://www.gitbook.com/book/devopscollective/devops-the-ops-perspective/details) (PDF, ePub, MOBI)
+* [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://www.gitbook.com/book/devopscollective/ditch-excel-making-historical-trend-reports-in-po/details)(PDF, ePub, MOBI)
+* [Introduction to PowerShell for Unix People](https://www.gitbook.com/book/devopscollective/a-unix-person-s-guide-to-powershell/details) (PDF, ePub, HTML)
 * [Layman’s Guide to PowerShell 2.0 remoting](http://www.ravichaganti.com//blog/wp-content/uploads/2010/12/A%20layman's%20guide%20to%20PowerShell%202.0%20remoting-v2.pdf) (PDF)
 * [Mastering PowerShell](http://powershell.com/cs/login.aspx?ReturnUrl=%2fcs%2fblogs%2febook%2fdefault.aspx)
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) *(Just fill the fields with any values)*
-* [The Big Book of PowerShell Error Handling](https://www.penflip.com/powershellorg/the-big-book-of-powershell-error-handling) (PDF, ePub, HTML)
-* [The Big Book of PowerShell Gotchas](https://www.penflip.com/powershellorg/the-big-book-of-powershell-gotchas) (PDF, ePub, HTML)
-* [The Community Book of PowerShell Best Practices](https://www.penflip.com/powershellorg/the-community-book-of-powershell-practices) (PDF, ePub, HTML)
+* [Secrets of PowerShell Remoting](https://www.gitbook.com/book/devopscollective/secrets-of-powershell-remoting/details) (PDF, ePub, MOBI)
+* [The Big Book of PowerShell Error Handling](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-error-handling/details) (PDF, ePub, MOBI)
+* [The Big Book of PowerShell Gotchas](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-gotchas/details) (PDF, ePub, MOBI)
 * [The DSC Book](https://www.penflip.com/powershellorg/the-dsc-book) (PDF, ePub, HTML)
-* [The Monad Manifesto - Annotated](https://www.penflip.com/powershellorg/monad-manifesto-annotated) (PDF, ePub, HTML)
+* [The Monad Manifesto - Annotated](https://www.gitbook.com/book/devopscollective/the-monad-manifesto-annotated/details) (PDF, ePub, MOBI)
+* [Why PowerShell?](https://www.gitbook.com/book/devopscollective/why-powershell-/details) (PDF, ePub, MOBI)
+* [Windows PowerShell Networking Guide](https://www.gitbook.com/book/devopscollective/windows-powershell-networking-guide/details) (PDF, ePub, MOBI)
 
 
 ### Processing
@@ -1787,12 +1796,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
+* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) (PDF) (1.9)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://www.effectivedjango.com) (1.5)
-* [Getting started with Django](http://gettingstartedwithdjango.com) (video)
-* [Tango With Django](http://www.tangowithdjango.com) (1.5)
+* [Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.8)
-* [The Django book](http://www.djangobook.com/en/2.0/) (1.4 but mostly 1.0)
 
 
 #### Flask
